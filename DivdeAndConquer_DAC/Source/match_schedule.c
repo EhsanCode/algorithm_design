@@ -115,7 +115,6 @@ void main(void)
 {
 	int i, j, n, so;
 	mat[0][0] = 0;
-	clrscr();
 	printf("Enter number of teams: ");
 	scanf("%d", &n);
 	if (n > 1)
